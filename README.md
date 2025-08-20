@@ -1,6 +1,3 @@
-Claro! Abaixo está um exemplo de `README.md` bem formatado, moderno, com emojis, boa estrutura visual e explicações claras, baseado nas informações da página do Npcap. Ideal para um repositório no GitHub:
-
----
 
 # 🌐 Npcap – Packet Capture Library for Windows
 
